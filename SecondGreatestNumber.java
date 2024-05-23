@@ -1,3 +1,5 @@
+// Question: Write a program to find the second largest number in an array in Java.
+
 import java.util.Scanner;
 public class SecondGreatestNumber {
     public static void main(String[] args) {
@@ -6,7 +8,7 @@ public class SecondGreatestNumber {
         int size = sc.nextInt();
         int [] array = new int[size];
 
-        System.out.println("Enter the elements in to the Array ")
+        System.out.println("Enter the elements in to the Array ");
         for (int i=0; i<size; i++){
             array[i] = sc.nextInt();
         }
