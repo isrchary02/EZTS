@@ -1,3 +1,4 @@
+// Date:- 23 May 2024
 // Question: Write a program to find the second largest number in an array in Java.
 
 import java.util.Scanner;
