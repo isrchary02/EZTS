@@ -13,6 +13,7 @@ public class SecondGreatestNumber {
         for (int i=0; i<size; i++){
             array[i] = sc.nextInt();
         }
+        sc.close();
         
         int firstLargest = Integer.MIN_VALUE;
         int secondLargest = Integer.MIN_VALUE;
